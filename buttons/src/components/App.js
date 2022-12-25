@@ -9,8 +9,6 @@ function App() {
         <Button class='disableShadow' text = 'Default'/>
         <Button class='default disabled-default' text = 'Default'/>
         <Button class='text disabled-text' text = 'Default'/>
-        <Button class='startIcon' text = 'Default'/>
-        <Button class='endIcon' text = 'Default'/>
         <Button class='size-sm' text = 'Default'/>
         <Button class='size-md' text = 'Default'/>
         <Button class='size-lg' text = 'Default'/>
