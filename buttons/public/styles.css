@@ -1,0 +1,212 @@
+.default{
+font-weight: 500;
+position: absolute;
+border: none;
+width: 81px;
+font-size: 14px;
+height: 36px;
+left: 319px;
+top: 141px;
+background: #E0E0E0;
+box-shadow: 0px 2px 3px rgba(51, 51, 51, 0.2);
+border-radius: 6px;
+}
+.default:hover, .default:focus {
+background: #AEAEAE;
+box-shadow: 0px 2px 3px rgba(51, 51, 51, 0.2);
+border-radius: 6px;
+}
+
+.outline{
+position: absolute;
+background-color: white;
+width: 88px;
+height: 36px;
+left: 319px;
+top: 246px;
+border: 1px solid #3D5AFE;
+color: #3D5AFE;
+border-radius: 6px;
+font-weight: 500;
+font-size: 14px;
+}
+.outline:hover, .outline:focus {
+background: rgba(41, 98, 255, 0.1);
+}
+
+.text{
+position: absolute;
+width: 88px;
+height: 36px;
+border-radius: 6px;
+left: 319px;
+top: 357px;
+font-weight: 500;
+font-size: 14px;
+background-color: white;
+color: #3D5AFE;
+border: none;
+}
+.text:hover, .text:focus {
+background: rgba(41, 98, 255, 0.1);
+}
+
+.disableShadow{
+position: absolute;
+width: 81px;
+height: 36px;
+left: 319px;
+top: 453px;
+background: #3D5AFE;
+color: white;
+border: none;
+font-size: 14px;
+font-weight: 500;
+border-radius: 6px;
+}
+
+.disabled-text{
+color: #9E9E9E;
+position: absolute;
+width: 62px;
+height: 20px;
+left: 558px;
+top: 566px;
+}
+.disabled-text:hover, .disabled-text:focus {
+    background: white;
+}
+
+.disabled-default{
+    color: #9E9E9E;
+    position: absolute;
+width: 88px;
+height: 36px;
+left: 319px;
+top: 558px;
+}
+.disabled-default:hover, .disabled-default:focus {
+    background: #E0E0E0;
+}
+.size-sm{
+position: absolute;
+width: 73px;
+height: 32px;
+left: 319px;
+top: 773px;
+border: none;
+color: white;
+font-weight: 500;
+font-size: 14px;
+background: #2962FF;
+box-shadow: 0px 2px 3px rgba(0, 49, 202, 0.2);
+border-radius: 6px;
+}
+
+.size-md{
+position: absolute;
+width: 81px;
+height: 36px;
+left: 523px;
+top: 771px;
+color: white;
+border:none;
+font-size: 14px;
+font-weight: 500;
+background: #2962FF;
+box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.2);
+border-radius: 6px;
+}
+
+.size-lg{
+position: absolute;
+width: 93px;
+height: 42px;
+left: 731px;
+top: 768px;
+font-weight: 500;
+font-size: 14px;
+color: white;
+border: none;
+background: #2962FF;
+box-shadow: 0px 2px 3px rgba(0, 49, 202, 0.2);
+border-radius: 6px;
+}
+
+
+.primary{
+position: absolute;
+width: 81px;
+height: 36px;
+left: 523px;
+top: 879px;
+background: #2962FF;
+border: none;
+color: #FFFFFF;
+box-shadow: 0px 2px 3px rgba(41, 98, 255, 0.2);
+border-radius: 6px;
+font-size: 14px;
+font-weight: 500;
+}
+.primary:hover, .primary:focus {
+    background: #0039CB;
+}
+
+.secondary {
+    position: absolute;
+width: 104px;
+height: 36px;
+left: 731px;
+top: 879px;
+font-size: 14px;
+font-weight: 500;
+border: none;
+color: white;
+background: #455A64;
+box-shadow: 0px 2px 3px rgba(69, 90, 100, 0.2);
+border-radius: 6px;
+}
+
+.secondary:hover, .secondary:focus {
+    background: #1C313A;
+}
+
+.danger{
+    position: absolute;
+width: 81px;
+height: 36px;
+left: 971px;
+top: 879px;
+font-size: 14px;
+font-weight: 500;
+border: none;
+color: white;
+background: #D32F2F;
+box-shadow: 0px 2px 3px rgba(211, 47, 47, 0.2);
+border-radius: 6px;
+}
+
+.danger:hover, .danger:focus {
+    background: #9A0007;
+}
+p{
+position: absolute;
+width: 287px;
+height: 17px;
+left: 322px;
+top: 1118px;
+padding: 30px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+text-align: center;
+color: #A9A9A9;
+}
+.navigate{
+    font-weight: 800;
+    color: #A9A9A9;
+    text-decoration: underline;
+}
